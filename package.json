@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Justin O'Boyle",
+    "email": "justin@justinoboyle.com",
+    "url": "justinoboyle.com"
+  },
+  "bugs": {
+    "url": "https://github.com/justinoboyle/soulseek-placeholder/issues"
+  },
+  "description": "Placeholder module",
+  "directories": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/justinoboyle/soulseek-placeholder#readme",
+  "keywords": [],
+  "license": "MIT",
+  "name": "soulseek",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinoboyle/soulseek-placeholder.git"
+  },
+  "scripts": {
+    "postinstall": "node message.js; sleep 10; exit 1;",
+  },
+  "version": "1.0.0"
+}
